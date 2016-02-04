@@ -1,3 +1,3 @@
-# COMP1072-Lesson03
+# COMP1073-Lesson03
 
-## COMP1072 - Client-Side Scripting - Lesson 3 @ Georgian College
+COMP1073 - Client-Side Scripting - Lesson 3 @ Georgian College
